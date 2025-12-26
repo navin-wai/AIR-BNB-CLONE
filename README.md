@@ -125,16 +125,10 @@ This project demonstrates real-world backend development, secure authentication,
 - Applying clean architecture and best backend practices
 
 ---
-
-## 📌 Future Enhancements
-
-- Advanced search and filtering
-- Booking and availability management
-- User profile dashboards
-- Payment gateway integration
-- Role-based access control (Admin / Host / User)
-
----
+## How to use
+Install Dependencies
+create .env 
+Start the Application - nodemon app.js
 
 ## 🧑‍💻 Author
 
